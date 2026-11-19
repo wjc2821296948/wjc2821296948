@@ -30,23 +30,7 @@ I build practical tools, explore infrastructure, and contribute improvements to 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
 
-### Selected Projects
-
-| Project | What it does |
-| --- | --- |
-| [XMRig Proxy Dashboard](https://github.com/wjc2821296948/XMRig-Proxy-Dashboard) | Lightweight, zero-backend monitoring UI for XMRig Proxy |
-| [xmrig-proxy-client](https://github.com/wjc2821296948/xmrig-proxy-client) | Zero-dependency XMRig Proxy API client and health monitor |
-| [luogu-problem](https://github.com/wjc2821296948/luogu-problem) | Accepted C++ solutions from programming practice |
-| [pr-agent](https://github.com/wjc2821296948/pr-agent) | Open-source AI code review project contributions |
-
 ### Open Source
 
 I value focused pull requests, reproducible fixes, clear documentation, and maintainable code.
 
----
-
-<div align="center">
-
-*Build useful things. Make them better.*
-
-</div>
