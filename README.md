@@ -10,6 +10,7 @@ I build practical tools, explore infrastructure, and contribute improvements to 
 
 [![GitHub](https://img.shields.io/badge/GitHub-wjc2821296948-181717?style=flat-square&logo=github)](https://github.com/wjc2821296948)
 [![Website](https://img.shields.io/badge/Website-lrate.top-2563eb?style=flat-square&logo=googlechrome&logoColor=white)](https://lrate.top)
+[![Email](https://img.shields.io/badge/Email-wjc%40lrate.top-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:wjc@lrate.top)
 
 </div>
 
