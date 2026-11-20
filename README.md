@@ -35,6 +35,10 @@ I build practical tools, explore infrastructure, and contribute improvements to 
 <div align="center">
 
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjc2821296948&theme=default" alt="GitHub statistics for @wjc2821296948" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wjc2821296948&theme=default" alt="Most committed languages for @wjc2821296948" />
+
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wjc2821296948&theme=default&utcOffset=8" alt="Productive time in UTC+8 for @wjc2821296948" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=wjc2821296948&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true" alt="Contribution activity graph for @wjc2821296948" />
 
 </div>
