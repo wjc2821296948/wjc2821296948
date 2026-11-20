@@ -35,7 +35,7 @@ I build practical tools, explore infrastructure, and contribute improvements to 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=wjc2821296948&show_icons=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub statistics for @wjc2821296948" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wjc2821296948&theme=default" alt="GitHub statistics for @wjc2821296948" />
 
 </div>
 
